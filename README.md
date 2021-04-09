@@ -1,2 +1,6 @@
 # hello-world
-Step 1. Create a Repository
+Greetings,
+
+My name is Dustin Ratliff.
+I'm so ready to graduate.
+
